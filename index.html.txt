@@ -1,10 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Introduction to Git and Github by DevAhoy</title>
-</head>
+html
+<HEAD> 
+<TITLE> Supatsorn Janpring </TITLE>
 <body>
-    <h1>Hello World</h1>
+<b><h1><center>ประวัติส่วนตัว</center></h1></b>
+<center><img src=”https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/26168314_1595255493874370_2464076578978530669_n.jpg?_nc_cat=105&_nc_ht=scontent.fbkk10-1.fna&oh=9f12e013cb36e98159f7f5161925448e&oe=5CE27063”></center>
+<center><br><h2><center>นางสาวสุภัสสร จันพริ้ง(มุก)</center>
+<center><center>คณะ:เทคโนโลยีอุตสาหกรรม</center>
+<center>สาขา:เทคโนโลยีคอมพิวเตอร์</center>
+<center>รหัสนักศึกษา : 59122970221 </center>
+<center> วัน/เดือน/ปีเกิด :23 มกราคม 2540 อายุ : 22 ปี </center>
+<center> ที่อยู่ : 127 หมู่11 ตำบลน้ำอ้อม อำเภอกันทรลักษ์ จังหวัดศรีสะเกษ 33110 </center>
+<center> คติประจำใจ : ทำวันนี้ให้ดีที่สุด </center></h2>
 </body>
+</HEAD>
 </html>
